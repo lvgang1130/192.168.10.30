@@ -4,4 +4,3 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 hello world
 come on baby
-test1
